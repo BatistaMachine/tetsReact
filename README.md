@@ -1,2 +1,0 @@
-# tetsReact
-Created with CodeSandbox
